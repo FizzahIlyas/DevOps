@@ -1,0 +1,5 @@
+Monolithic to Microservices Architecture 
+
+In the blog, we are discussing the transition from monolithic to microservice architecture. We explore the steps involved in making this transition, including analyzing the application, determining service boundaries, choosing a technology stack, refactoring code, deploying services, implementing communication between services, and monitoring and managing the services. We also highlight the advantages of microservice architecture, including scalability, flexibility, resilience, faster development, improved availability, and simplified maintenance.
+
+https://medium.com/@fizzah.ilyas/monolithic-to-microservices-85e2059515bf
